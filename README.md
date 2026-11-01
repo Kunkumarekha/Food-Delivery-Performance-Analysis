@@ -64,5 +64,4 @@ Food-Delivery-Performance-Analysis/
 5. Improve customer satisfaction.
 
 ## 👩‍💻 Author
-
-Created as a practical Python Pandas case study to demonstrate real-world data analysis skills.
+U.Kunkumarekha
