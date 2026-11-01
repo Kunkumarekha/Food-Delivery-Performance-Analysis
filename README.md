@@ -44,16 +44,6 @@ The objective is to transform raw food delivery data into meaningful business in
 - Pivot Tables
 - Data Visualization
 
-## 📁 Project Structure
-
-```text
-Food-Delivery-Performance-Analysis/
-│
-├── Food_Delivery_Analysis.ipynb
-├── dataset.csv
-├── visualizations/
-└── README.md
-```
 
 ## 💡 Business Recommendations
 
